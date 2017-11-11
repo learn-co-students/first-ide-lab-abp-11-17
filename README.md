@@ -7,6 +7,9 @@ Watch the video above to see how to solve this lab.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UuObhDt9ZV0?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=UuObhDt9ZV0">First IDE Lab</a></p>
 
 ## Instructions
+ls
+
+
 
 Open this lab in the Learn IDE, edit the file `edit-me.txt` in this lab using the Learn IDE, run the tests with `learn` and submit the lab with `learn submit`.
 
