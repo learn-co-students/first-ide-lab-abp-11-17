@@ -1,0 +1,9 @@
+First lab.
+Trying to see how this works
+So in the command line
+  learn
+    -to start a test but needs ctrl+S to save first and make sure blue dot disappears from tab
+  learn save
+    -to save and push what you have done to github even though it isn't working or complete
+  learn submit
+    -to submit the lab
